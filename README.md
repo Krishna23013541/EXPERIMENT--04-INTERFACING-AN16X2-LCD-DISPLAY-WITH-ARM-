@@ -183,7 +183,7 @@ Lcd_cursor(&lcd, 0,0);
 Lcd_string(&lcd, "DEPT scoft");
 
 Lcd_cursor(&lcd, 1,0);
-Lcd_string(&lcd, "Krishna");
+Lcd_string(&lcd, "KRISHNA");
 ```
 
 
